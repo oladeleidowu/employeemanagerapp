@@ -1,2 +1,2 @@
 # employeemanagerapp
-Simple CRUD operation with Java and Angular JS
+Simple CRUD operation with Springboot / Java and Angular JS
